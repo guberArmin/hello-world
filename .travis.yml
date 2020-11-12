@@ -1,5 +1,5 @@
 services:
-  - docker
+- docker
 env:
   global:
     - GCP_PROJECT_ID=second-terraform-project
